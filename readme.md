@@ -1,0 +1,1 @@
+This is an video player in which video plays in a new popup window with all control and features.
